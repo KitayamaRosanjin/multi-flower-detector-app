@@ -1,9 +1,9 @@
-# Multi-Flower Detector App（多様な花識別アプリ）
+<img width="829" height="860" alt="スクリーンショット 2025-10-06 012637" src="https://github.com/user-attachments/assets/692395d0-a29e-4918-90fb-030a89d0392d" /># Multi-Flower Detector App（多様な花識別アプリ）
 
 PyTorchの転移学習（ResNet18）で、花の写真をアップロードして5種（daisy, dandelion, rose, sunflower, tulip）を識別！ 初心者ポートフォリオとして、画像分類の基礎を実装。初回訓練でモデル保存、再起動でも高速ロード。
 
 ## デモ結果例
-![アプリ画面](app_screenshot.png)  <!-- スクショをアップロードしてURLをここに -->
+![アプリ画面](fukujuso.png)  <!-- スクショをアップロードしてURLをここに -->
 
 - **アップロード画像**: ひまわりの写真
 - **予測**: **sunflower** (確信度: 92%)
